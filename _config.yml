@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nathan Wong"
+title                    : "Nathan Wong / Personal Website"
 title_separator          : "-"
 name                     : &name "Nathan Wong"
-description              : &description "Nathan Wong Personal Website"
-url                      : https://nathan2wong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "personal description"
+url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nathan2wong/nathan2wong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Wong"
-  avatar           : "profile.png"
-  bio              : "Computer Science and Bioengineering Student at UC Berkeley."
+  avatar           : #"profile.png"
+  bio              : "EECS & BioE at UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=nathan+wong"
-  googlescholar    : "https://scholar.google.com/citations?user=PnhZJWMAAAAJ"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=PnhZJWMAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://linkedin.com/in/nathan2wong"
+  orcid            : "https://orcid.org/0000-0002-9747-6026"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
