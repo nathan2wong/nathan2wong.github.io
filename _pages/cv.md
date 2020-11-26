@@ -59,5 +59,5 @@ Teaching
   
 Service and Leadership
 ======
-* Fall 2017 - Spring 2018: UC Berkeley Hall Association (Residential Unit 4) President [Website](https://web.archive.org/web/20180821113001/https://hillsideprez.com/)
+* Fall 2017 - Spring 2018: UC Berkeley Hall Association (Residential Unit 4) President [[Website](https://web.archive.org/web/20180821113001/https://hillsideprez.com/)]
   * Managed a $12,000 budget to host welcoming parties and organize community-bonding events for over 750 residents.
