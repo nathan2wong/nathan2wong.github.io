@@ -1,22 +1,14 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+    url: /publications/  
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
+
+  - title: "Blog (Medium Posts)"
+    url: https://medium.com/@nathan2wong
     
-  - title: "Guide"
-    url: /markdown/

@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nathan Wong / Personal Website"
+title                    : "Nathan Wong / Student Researcher"
 title_separator          : "-"
 name                     : &name "Nathan Wong"
 description              : &description "personal description"
-url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nathan2wong.github.io #http://127.0.0.1:4000 #https://nathan2wong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nathan2wong/nathan2wong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Wong"
-  avatar           : #"profile.png"
+  avatar           : "nathanprofile.jpg"
   bio              : "EECS & BioE at UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "nathan2wong"
+  twitter          : #"nathan2wong"
   vine             :
   weibo            :
   xing             :

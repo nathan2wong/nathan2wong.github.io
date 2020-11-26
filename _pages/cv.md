@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae / Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,22 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering and Computer Science, University of California, Berkeley, 2021 (expected)
+* B.S. in Bioengineering, University of California, Berkeley, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Current: (Computational Biology) Undergraduate Research Assistant
+  * Conboy Lab at UC Berkeley
+  * Duties included: Scientific software development, mathematical and statistical modeling and inference, computer vision and machine learning applications.
+  * Supervisor: Professor Irina M. Conboy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Software Engineering Intern
+  * Tanium
+
+* Summer 2019: Computational Biology Research Intern
+  * Zymochem
   
+<!--
 Skills
 ======
 * Skill 1
@@ -35,25 +36,28 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Fall 2017 - Spring 2018: UC Berkeley Hall Association (Residential Unit 4) President
+  * Managed a $12,000 budget to host welcoming parties and organize community-bonding events for over 750 residents.
