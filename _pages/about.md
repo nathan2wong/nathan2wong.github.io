@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "UC Berkeley [EECS](https://eecs.berkeley.edu) & [Bioengineering](https://bioeng.berkeley.edu) Undergrad (4th year)"
-excerpt: "About me"
+excerpt: "Fourth-year student at University of California, Berkeley (UC Berkeley). Majoring in Electrical Engineering and Computer Science (EECS) and Bioengineering."
 author_profile: true
 redirect_from: 
   - /about/
