@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nathan Wong / Student Researcher"
+title                    : "Nathan Wong"
 title_separator          : "-"
 name                     : &name "Nathan Wong"
 description              : &description "personal description"
