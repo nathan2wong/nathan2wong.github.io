@@ -19,7 +19,7 @@ Work experience
 * Current: (Computational Biology) Undergraduate Research Assistant
   * Conboy Lab at UC Berkeley
   * Duties included: Scientific software development, mathematical and statistical modeling and inference, computer vision and machine learning applications.
-  * Supervisor: Professor Irina M. Conboy
+  * Advisor: Professor Irina M. Conboy
 
 * Summer 2020: Software Engineering Intern
   * Tanium
@@ -59,5 +59,5 @@ Teaching
   
 Service and Leadership
 ======
-* Fall 2017 - Spring 2018: UC Berkeley Hall Association (Residential Unit 4) President
+* Fall 2017 - Spring 2018: UC Berkeley Hall Association (Residential Unit 4) President [Website](https://web.archive.org/web/20180821113001/https://hillsideprez.com/)
   * Managed a $12,000 budget to host welcoming parties and organize community-bonding events for over 750 residents.
