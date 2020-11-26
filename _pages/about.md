@@ -16,7 +16,8 @@ Hi! I'm Nathan, a fourth-year student at the University of California Berkeley. 
 
 Relevant Links
 ------
-- [Resume/CV](/files/resume.pdf){:style="color:#62c462"}
+<!-- - [Resume/CV](/files/resume.pdf){:style="color:#62c462"} -->
+- [Resume/CV](/cv){:style="color:#62c462"}
 - [Diversity Statement](#){:style="color:#62c462"}
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=PnhZJWMAAAAJ){:style="color:#62c462"}
 - [Medium Posts](https://medium.com/@nathan2wong){:style="color:#62c462"}
