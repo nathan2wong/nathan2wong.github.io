@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nathan Wong"
 title_separator          : "-"
 name                     : &name "Nathan Wong"
-description              : &description "Fourth-year student at University of California, Berkeley (UC Berkeley). Majoring in Electrical Engineering and Computer Science (EECS) and Bioengineering."
+description              : &description "Hi! I'm Nathan Wong a software engineer based in the SF Bay Area. I graduated from University of California, Berkeley (UC Berkeley) with a degree in Electrical Engineering and Computer Science (EECS)."
 url                      : https://nathan2wong.com #https://127.0.0.1:4000 #https://nathan2wong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nathan2wong/nathan2wong.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nathan Wong"
   avatar           : "nathanprofile.jpg"
-  bio              : "PhD Student at Carnegie Mellon University"
-  location         : "Sunnyvale, CA"
+  bio              : "Software Engineer"
+  location         : "SF Bay Area, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=PnhZJWMAAAAJ"
