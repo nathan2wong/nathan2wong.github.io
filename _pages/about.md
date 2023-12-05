@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nathan Wong Portfolio Website"
+title: "Nathan Wong"
 excerpt: "I'm Nathan Wong a software engineer based in the SF Bay Area. I graduated from University of California, Berkeley (UC Berkeley) with a degree in Electrical Engineering and Computer Science (EECS)."
 author_profile: true
 redirect_from: 
